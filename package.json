@@ -14,7 +14,7 @@
   },
   "scripts": {
     "start": "export PORT=3007 && react-scripts start",
-    "build": "react-scripts build && npm run build",
+    "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
